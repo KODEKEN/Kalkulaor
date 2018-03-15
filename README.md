@@ -1,2 +1,2 @@
-# Kalkulaor
-Kalkulaor Online Buatan Kode Ken
+# Kalkulator
+Kalkulator Online Buatan Kode Ken
